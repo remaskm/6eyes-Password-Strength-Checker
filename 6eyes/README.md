@@ -77,9 +77,8 @@ Keep this terminal open while using the extension.
 ## Project structure
 
 ```
-project/
-├── app.py              
-├── README.md           
+6eyes/
+├── app.py                     
 └── extension/
     ├── manifest.json  
     ├── popup.html     
